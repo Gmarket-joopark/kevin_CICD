@@ -1,1 +1,2 @@
 # ch01
+Oracle VM + Ubuntu 22.04
